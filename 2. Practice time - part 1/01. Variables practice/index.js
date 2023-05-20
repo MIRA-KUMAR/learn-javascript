@@ -5,3 +5,10 @@
 // Log fullName to the console
 
 
+let firstName = "Mira";
+let space = " ";
+
+let lastName = "Kumar";
+let fullName = firstName + space + lastName;
+
+console.log(fullName);
